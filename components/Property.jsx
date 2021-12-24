@@ -72,4 +72,4 @@ const Property = ({
   </Link>
 );
 
-export default property;
+export default Property;
